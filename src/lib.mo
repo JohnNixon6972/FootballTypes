@@ -1,6 +1,6 @@
 import Base "base_types";
 import List "mo:base/List";
-module FootballTypes {
+module {
 
   public type GameweekNumber = Nat8;
   public type SeasonId = Nat16;

@@ -1,9 +1,9 @@
 [package]
-name = "FootballTypes"
+name = "football-types"
 version = "1.0.0"
 description = "FootballTypes used in FootballGod OpenFPL OpenWSL"
 repository = "https://github.com/JohnNixon6972/FootballTypes.git"
-keywords = [ "FootballTypes" ]
+keywords = [ "football-types","footballgod","openfpl","openwsl" ]
 license = "MIT"
 
 [dependencies]
