@@ -7,7 +7,7 @@ mops add FootballTypes
 
 ## Usage
 ```motoko
-import FootballTypes "mo:FootballTypes";
+import FootballTypes "mo:football-types";
 
 // example...
 ```
